@@ -6,7 +6,6 @@ Download [Sublime Text 3](http://www.sublimetext.com/3)
 Installation von [PackageControl](https://packagecontrol.io/)
 
 
-
 ## Theme
 
 [Cobalt 2](https://github.com/wesbos/cobalt2) von [@wesbos](https://github.com/wesbos)
@@ -40,9 +39,8 @@ Installation von [PackageControl](https://packagecontrol.io/)
 ```
 
 
-
 ## Packages
----
+
 
 * [Sass](https://packagecontrol.io/packages/Sass)
 * [Emmet](https://packagecontrol.io/packages/Emmet)
@@ -54,11 +52,8 @@ Installation von [PackageControl](https://packagecontrol.io/)
 
 
 ## Packages Settings
----
-
 
 ### Emmet
-
 
 ```json
 {
@@ -71,6 +66,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
 
 
 ## Snippets
+
 Erstellen in Sublime Text unter `Tools` > `New Snippet`
 
 Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad (OSX)
