@@ -14,7 +14,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
 
 ## User Settings
 
-```
+```json
 {
     "caret_extra_bottom": 3,
     "caret_extra_top": 3,
@@ -60,7 +60,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
 ### Emmet
 
 
-```
+```json
 {
   "css_completions_scope": "source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.css - meta.property-value.css, source.less - meta.selector.css - meta.property-value.css, source.sass - meta.selector.css - meta.property-value.css",
   "preferences": {
@@ -80,7 +80,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 ### Breakpoint Sass Mixin 
 `breakpoint.sublime-snippet`
 
-```
+```html
 <snippet>
   <content><![CDATA[
 @include breakpoint(${1:}) {
@@ -97,7 +97,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 ### Kommentar Block
 `kommentar-block.sublime-snippet`
 
-```
+```html
 <snippet>
   <content><![CDATA[
 //*******************************************************************************
@@ -114,7 +114,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 ### console.log();
 `console-log.sublime-snippet`
 
-```
+```html
 <snippet>
   <content><![CDATA[
 console.log($1);
