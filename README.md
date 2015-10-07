@@ -1,10 +1,9 @@
 Sublime Text 3 Configuration
 ---
 
-**Download**
-[Sublime Text 3](http://www.sublimetext.com/3)
+Download [Sublime Text 3](http://www.sublimetext.com/3)
 
-**[PackageControl](https://packagecontrol.io/)** - The Sublime Text package manager
+Installation von [PackageControl](https://packagecontrol.io/)
 
 
 
