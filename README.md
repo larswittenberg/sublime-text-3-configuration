@@ -1,4 +1,4 @@
-Sublime Text 3 Configuration
+# Sublime Text 3 Configuration
 ---
 
 Download [Sublime Text 3](http://www.sublimetext.com/3)
@@ -73,7 +73,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 `user/Library/Application Support/Sublime Text 3/Packages/User/`
 
 
-### Breakpoint Sass Mixin 
+#### Breakpoint Sass Mixin 
 `breakpoint.sublime-snippet`
 
 ```html
@@ -90,7 +90,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 </snippet>
 ```
 
-### print_r() Ausgabe
+#### print_r() Ausgabe
 `print_r.sublime-snippet`
 
 ```html
@@ -108,7 +108,7 @@ echo '</pre>';
 ```
 
 
-### Kommentar Block
+#### Kommentar Block
 `kommentar-block.sublime-snippet`
 
 ```html
@@ -125,7 +125,7 @@ echo '</pre>';
 </snippet>
 ```
 
-### console.log();
+#### console.log();
 `console-log.sublime-snippet`
 
 ```html
