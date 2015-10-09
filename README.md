@@ -90,6 +90,24 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 </snippet>
 ```
 
+### print_r() Ausgabe
+`print_r.sublime-snippet`
+
+```html
+<snippet>
+  <content><![CDATA[
+echo '<pre>';
+print_r(${1:});
+echo '</pre>';
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>pre</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>
+```
+
+
 ### Kommentar Block
 `kommentar-block.sublime-snippet`
 
