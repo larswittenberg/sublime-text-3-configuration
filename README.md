@@ -71,7 +71,7 @@ Menü `Sublime Text` > `Preferences` > `Package Settings` > `Emmet` > `Settings 
 Erstellen in Sublime Text unter `Tools` > `New Snippet`
 
 Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad (OSX)
-`user/Library/Application Support/Sublime Text 3/Packages/User/`
+`Benutzer/[Benutzername]/Library/Application Support/Sublime Text 3/Packages/User/`
 
 
 #### Breakpoint Sass Mixin 
