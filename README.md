@@ -54,12 +54,14 @@ Installation von [PackageControl](https://packagecontrol.io/)
 ## Packages Settings
 
 ### Emmet
+Menü `Sublime Text` > `Preferences` > `Package Settings` > `Emmet` > `Settings - User`
 
 ```json
 {
-  "css_completions_scope": "source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.css - meta.property-value.css, source.less - meta.selector.css - meta.property-value.css, source.sass - meta.selector.css - meta.property-value.css",
+  "css_completions_scope": "source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.scss - meta.property-value.scss, source.less - meta.selector.css - meta.property-value.css, source.sass - meta.selector.css - meta.property-value.css",
   "preferences": {
-    "sass.propertyEnd": ";"
+    "sass.propertyEnd": ";",
+    "scss.propertyEnd": ";"
   }
 }
 ```
