@@ -60,8 +60,7 @@ Menü `Sublime Text` > `Preferences` > `Package Settings` > `Emmet` > `Settings 
 {
   "css_completions_scope": "source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.scss - meta.property-value.scss, source.less - meta.selector.css - meta.property-value.css, source.sass - meta.selector.css - meta.property-value.css",
   "preferences": {
-    "sass.propertyEnd": ";",
-    "scss.propertyEnd": ";"
+    "sass.propertyEnd": ";"
   }
 }
 ```
