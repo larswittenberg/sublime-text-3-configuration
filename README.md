@@ -1,4 +1,4 @@
-# Sublime Text 3 Configuration
+Sublime Text 3 Configuration
 ---
 
 Download [Sublime Text 3](http://www.sublimetext.com/3)
