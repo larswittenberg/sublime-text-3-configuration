@@ -34,7 +34,8 @@ Installation von [PackageControl](https://packagecontrol.io/)
     "trailing_spaces_highlight_color": "invalid",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
-    "word_wrap": true
+    "word_wrap": true,
+    "draw_white_space": "all"
 }
 ```
 
