@@ -26,7 +26,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
     "theme": "Cobalt2.sublime-theme",
     "ensure_newline_at_eof_on_save": true,
     "font_face": "Hack",
-    "font_size": 12.0,
+    "font_size": 13.0,
     "highlight_line": true,
     "ignored_packages":
     [
