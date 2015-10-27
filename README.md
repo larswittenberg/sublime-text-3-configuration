@@ -11,6 +11,10 @@ Installation von [PackageControl](https://packagecontrol.io/)
 [Cobalt 2](https://github.com/wesbos/cobalt2) von [@wesbos](https://github.com/wesbos)
 
 
+## Font
+[Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
+
+
 ## User Settings
 
 ```json
@@ -21,6 +25,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
     "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
     "theme": "Cobalt2.sublime-theme",
     "ensure_newline_at_eof_on_save": true,
+    "font_face": "Hack",
     "font_size": 12.0,
     "highlight_line": true,
     "ignored_packages":
