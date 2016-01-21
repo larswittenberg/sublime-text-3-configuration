@@ -19,28 +19,29 @@ Installation von [PackageControl](https://packagecontrol.io/)
 
 ```json
 {
-    "caret_extra_bottom": 3,
-    "caret_extra_top": 3,
-    "caret_extra_width": 2,
-    "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-    "theme": "Cobalt2.sublime-theme",
-    "ensure_newline_at_eof_on_save": true,
-    "font_face": "Hack",
-    "font_size": 13.0,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "open_files_in_new_window": false,
-    "overlay_scroll_bars": "enabled",
-    "tab_size": 2,
-    "trailing_spaces_file_max_size": 1000,
-    "trailing_spaces_highlight_color": "invalid",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": true,
-    "draw_white_space": "all"
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Hack",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"trailing_spaces_file_max_size": 1000,
+	"trailing_spaces_highlight_color": "invalid",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"show_encoding": true
 }
 ```
 
