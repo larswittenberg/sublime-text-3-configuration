@@ -55,6 +55,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
 * [Editor​Config](https://packagecontrol.io/packages/EditorConfig) - Helps developers maintain consistent coding styles between different editors
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter
 * [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+* [TypoScript Syntax Highlighter](https://packagecontrol.io/packages/TypoScript)
 
 
 
