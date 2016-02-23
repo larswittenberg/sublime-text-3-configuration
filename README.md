@@ -47,14 +47,16 @@ Installation von [PackageControl](https://packagecontrol.io/)
 
 
 ## Packages
+`Command Palette` > `List Packages`
 
-
-* [Sass](https://packagecontrol.io/packages/Sass)
-* [Emmet](https://packagecontrol.io/packages/Emmet)
 * [Apache​Conf](https://packagecontrol.io/packages/ApacheConf.tmLanguage) - Syntax Highlighting für .htaccess
-* [Editor​Config](https://packagecontrol.io/packages/EditorConfig) - Helps developers maintain consistent coding styles between different editors
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter
+* [Editor​Config](https://packagecontrol.io/packages/EditorConfig) - Helps developers maintain consistent coding styles between different editors
+* [Emmet](https://packagecontrol.io/packages/Emmet)
+* [Package Control](https://packagecontrol.io/installation)
+* [Sass](https://packagecontrol.io/packages/Sass)
 * [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
+* [Theme - Cobalt 2](https://github.com/wesbos/cobalt2)
 * [TypoScript Syntax Highlighter](https://packagecontrol.io/packages/TypoScript)
 
 
