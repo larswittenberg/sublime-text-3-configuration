@@ -58,6 +58,7 @@ Installation von [PackageControl](https://packagecontrol.io/)
 * [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 * [Theme - Cobalt 2](https://github.com/wesbos/cobalt2)
 * [TypoScript Syntax Highlighter](https://packagecontrol.io/packages/TypoScript)
+* [MJML Syntax Highlighter](https://packagecontrol.io/packages/MJML-syntax)
 
 
 
