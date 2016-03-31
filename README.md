@@ -46,6 +46,24 @@ Installation von [PackageControl](https://packagecontrol.io/)
 ```
 
 
+## Key Bindings User
+
+```json
+[
+  // Fix End of line
+  { "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol", "extend": false} }
+  // Fix Beginning of line
+  ,{ "keys": ["super+left"], "command": "move_to", "args": {"to": "hardbol", "extend": false} }
+  // Fix end of line + select
+  ,{ "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true} }
+  // Fix beginning of line + select
+  ,{ "keys": ["super+shift+left"], "command": "move_to", "args": {"to": "hardbol", "extend": true} }
+]
+```
+
+[Proper go to end of line with Sublime Text](http://wesbos.com/sublime-text-end-of-line-wrap/)
+
+
 ## Packages
 `Command Palette` > `List Packages`
 
