@@ -101,6 +101,7 @@ Erstellen in Sublime Text unter `Tools` > `New Snippet`
 
 Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad (OSX)
 `Benutzer/[Benutzername]/Library/Application Support/Sublime Text 3/Packages/User/`
+
 (Sublime Text Menü → Preferences → Browse Packages...)
 
 
@@ -115,7 +116,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
 }
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>bp</tabTrigger>
+  <tabTrigger>mq</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.sass</scope>
 </snippet>
