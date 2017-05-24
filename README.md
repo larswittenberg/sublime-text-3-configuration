@@ -101,9 +101,10 @@ Erstellen in Sublime Text unter `Tools` > `New Snippet`
 
 Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad (OSX)
 `Benutzer/[Benutzername]/Library/Application Support/Sublime Text 3/Packages/User/`
+(Sublime Text Menü → Preferences → Browse Packages...)
 
 
-#### Breakpoint Sass Mixin 
+#### Breakpoint Sass Mixin
 `breakpoint.sublime-snippet`
 
 ```html
