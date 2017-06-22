@@ -68,16 +68,18 @@ Installation von [PackageControl](https://packagecontrol.io/)
 `Command Palette` > `List Packages`
 
 * [Apache​Conf](https://packagecontrol.io/packages/ApacheConf.tmLanguage) - Syntax Highlighting für .htaccess
+* [Babel - Sublime-React](https://github.com/babel/babel-sublime)
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter
 * [Editor​Config](https://packagecontrol.io/packages/EditorConfig) - Helps developers maintain consistent coding styles between different editors
 * [Emmet](https://packagecontrol.io/packages/Emmet)
+* [MJML Syntax Highlighter](https://packagecontrol.io/packages/MJML-syntax)
 * [Package Control](https://packagecontrol.io/installation)
 * [Sass](https://packagecontrol.io/packages/Sass)
 * [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 * [Theme - Cobalt 2](https://github.com/wesbos/cobalt2)
 * [TypoScript Syntax Highlighter](https://packagecontrol.io/packages/TypoScript)
-* [MJML Syntax Highlighter](https://packagecontrol.io/packages/MJML-syntax)
-* [Babel - Sublime-React](https://github.com/babel/babel-sublime)
+
+
 
 
 
