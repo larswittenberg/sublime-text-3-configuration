@@ -122,7 +122,7 @@ Die Dateien haben die Endung `.sublime-snippet` und liegen unter folgendem Pfad 
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>mq</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>source.sass</scope>
+  <scope>source.scss</scope>
 </snippet>
 ```
 
